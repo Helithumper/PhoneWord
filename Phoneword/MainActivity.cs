@@ -34,6 +34,7 @@ namespace Phoneword
 			Button callHistoryButton = FindViewById<Button> (Resource.Id.CallHistoryButton);
 			Button progressButton = FindViewById<Button> (Resource.Id.ProgressButton);
 			ProgressBar progressBar = FindViewById<ProgressBar> (Resource.Id.ProgressBar);
+			ImageView imageView = FindViewById<ImageView> (Resource.Id.IconView);
 
 			//Disable call button
 			callButton.Enabled=false;

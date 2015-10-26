@@ -4,6 +4,12 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:background="#ff9dc0a8">
+    <ImageView
+        android:src="@drawable/Icon"
+        android:layout_width="match_parent"
+        android:layout_height="81.1dp"
+        android:id="@+id/IconView"
+        android:layout_marginTop="10dp" />
     <TextClock xmlns:p2="http://xamarin.com/mono/android/designer-default"
         android:layout_width="match_parent"
         android:layout_height="31.4dp"
@@ -26,7 +32,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/PhoneNumberText"
-        android:text="1-855-XAMARIN"
+        android:text="770YUWOTM8"
         android:textColor="#283044"
         android:layout_marginLeft="40dp"
         android:layout_marginRight="40dp"

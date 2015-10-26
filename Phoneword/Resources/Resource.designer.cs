@@ -60,44 +60,47 @@ namespace Phoneword
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050006
-			public const int CallButton = 2131034118;
-			
-			// aapt resource value: 0x7f050008
-			public const int CallHistoryButton = 2131034120;
-			
-			// aapt resource value: 0x7f050002
-			public const int PhoneNumberText = 2131034114;
-			
-			// aapt resource value: 0x7f05000c
-			public const int ProgressBar = 2131034124;
-			
-			// aapt resource value: 0x7f05000a
-			public const int ProgressButton = 2131034122;
-			
-			// aapt resource value: 0x7f050003
-			public const int TranslateButton = 2131034115;
-			
-			// aapt resource value: 0x7f050004
-			public const int space1 = 2131034116;
-			
-			// aapt resource value: 0x7f050005
-			public const int space2 = 2131034117;
-			
 			// aapt resource value: 0x7f050007
-			public const int space3 = 2131034119;
+			public const int CallButton = 2131034119;
 			
 			// aapt resource value: 0x7f050009
-			public const int space4 = 2131034121;
-			
-			// aapt resource value: 0x7f05000b
-			public const int space5 = 2131034123;
+			public const int CallHistoryButton = 2131034121;
 			
 			// aapt resource value: 0x7f050000
-			public const int textClock1 = 2131034112;
+			public const int IconView = 2131034112;
+			
+			// aapt resource value: 0x7f050003
+			public const int PhoneNumberText = 2131034115;
+			
+			// aapt resource value: 0x7f05000d
+			public const int ProgressBar = 2131034125;
+			
+			// aapt resource value: 0x7f05000b
+			public const int ProgressButton = 2131034123;
+			
+			// aapt resource value: 0x7f050004
+			public const int TranslateButton = 2131034116;
+			
+			// aapt resource value: 0x7f050005
+			public const int space1 = 2131034117;
+			
+			// aapt resource value: 0x7f050006
+			public const int space2 = 2131034118;
+			
+			// aapt resource value: 0x7f050008
+			public const int space3 = 2131034120;
+			
+			// aapt resource value: 0x7f05000a
+			public const int space4 = 2131034122;
+			
+			// aapt resource value: 0x7f05000c
+			public const int space5 = 2131034124;
 			
 			// aapt resource value: 0x7f050001
-			public const int textView1 = 2131034113;
+			public const int textClock1 = 2131034113;
+			
+			// aapt resource value: 0x7f050002
+			public const int textView1 = 2131034114;
 			
 			static Id()
 			{
