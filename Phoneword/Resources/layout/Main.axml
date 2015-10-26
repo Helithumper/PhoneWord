@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ff9dc0a8">
+    <TextClock xmlns:p2="http://xamarin.com/mono/android/designer-default"
+        android:layout_width="match_parent"
+        android:layout_height="31.4dp"
+        android:id="@+id/textClock1"
+        android:gravity="center"
+        android:textColor="#283044"
+        android:typeface="normal"
+        android:textStyle="italic"
+        android:textSize="18dp"
+        android:layout_marginTop="20dp" />
+    <TextView
+        android:text="Enter a Phoneword:"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="48.1dp"
+        android:id="@+id/textView1"
+        android:gravity="center"
+        android:textColor="#ff283044" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/PhoneNumberText"
+        android:text="1-855-XAMARIN"
+        android:textColor="#283044"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="30dp" />
+    <Button
+        android:text="Translate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/TranslateButton"
+        android:textColor="#ff3b4c4f"
+        android:drawableTop="#ff000000"
+        android:background="#8B786D"
+        android:typeface="monospace"
+        android:textStyle="normal"
+        android:drawableBottom="#ff000000"
+        android:gravity="center"
+        android:width="20dp"
+        android:ems="20"
+        android:height="20dp"
+        android:lines="20"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp" />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/space1" />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:id="@+id/space2" />
+    <Button
+        android:text="Call"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/CallButton"
+        android:textColor="#ff3b4c4f"
+        android:background="#8B786D"
+        android:requiresFadingEdge="vertical"
+        android:fadingEdge="vertical"
+        android:fadingEdgeLength="1dp"
+        android:typeface="monospace"
+        android:drawableTop="#ff000000"
+        android:drawableBottom="#ff000000"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp" />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:id="@+id/space3" />
+    <Button
+        android:text="@string/callHistory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/CallHistoryButton"
+        android:background="#8B786D"
+        android:textColor="#ff3b4c4f"
+        android:typeface="monospace"
+        android:enabled="false"
+        android:requiresFadingEdge="horizontal"
+        android:drawableTop="#ff000000"
+        android:drawableBottom="#ff000000"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp" />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:id="@+id/space4" />
+    <Button
+        android:text="Add 1 to the Bar!"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ProgressButton"
+        android:background="#8B786D"
+        android:textColor="#ff3b4c4f"
+        android:typeface="monospace"
+        android:requiresFadingEdge="horizontal"
+        android:drawableTop="#ff000000"
+        android:drawableBottom="#ff000000"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp" />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:id="@+id/space5" />
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ProgressBar"
+        android:max="10"
+        android:progress="0"
+        android:secondaryProgress="0"
+        android:scaleY="3" />
+</LinearLayout>

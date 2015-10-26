@@ -1,0 +1,6 @@
+C:\Users\Peyton\Documents\Projects\Phoneword\Phoneword\obj\Debug\android\assets\Phoneword.dll
+C:\Users\Peyton\Documents\Projects\Phoneword\Phoneword\obj\Debug\android\assets\Mono.Android.dll
+C:\Users\Peyton\Documents\Projects\Phoneword\Phoneword\obj\Debug\android\assets\mscorlib.dll
+C:\Users\Peyton\Documents\Projects\Phoneword\Phoneword\obj\Debug\android\assets\System.Core.dll
+C:\Users\Peyton\Documents\Projects\Phoneword\Phoneword\obj\Debug\android\assets\System.dll
+C:\Users\Peyton\Documents\Projects\Phoneword\Phoneword\obj\Debug\android\assets\System.Xml.dll

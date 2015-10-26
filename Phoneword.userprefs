@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Phoneword\Phoneword.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword\MainActivity.cs">
+    <Files>
+      <File FileName="Phoneword\MainActivity.cs" Line="65" Column="35" />
+      <File FileName="Phoneword\PhoneTranslator.cs" Line="16" Column="18" />
+      <File FileName="Phoneword\CallHistoryActivity.cs" Line="19" Column="2" />
+      <File FileName="Phoneword\Resources\values\Strings.xml" Line="6" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Phoneword AndroidDesignerPreferredDevice="Nexus 5" AndroidDesignerPreferredTheme="Theme.Holo" />
+</Properties>

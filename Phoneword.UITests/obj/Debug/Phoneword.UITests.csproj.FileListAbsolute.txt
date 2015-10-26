@@ -1,0 +1,9 @@
+C:\Users\Peyton\Documents\Projects\Phoneword\Phoneword.UITests\bin\Debug\Phoneword.UITests.dll
+C:\Users\Peyton\Documents\Projects\Phoneword\Phoneword.UITests\bin\Debug\Phoneword.UITests.pdb
+C:\Users\Peyton\Documents\Projects\Phoneword\Phoneword.UITests\bin\Debug\nunit.framework.dll
+C:\Users\Peyton\Documents\Projects\Phoneword\Phoneword.UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\Peyton\Documents\Projects\Phoneword\Phoneword.UITests\bin\Debug\nunit.framework.xml
+C:\Users\Peyton\Documents\Projects\Phoneword\Phoneword.UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\Peyton\Documents\Projects\Phoneword\Phoneword.UITests\obj\Debug\Phoneword.UITests.csprojResolveAssemblyReference.cache
+C:\Users\Peyton\Documents\Projects\Phoneword\Phoneword.UITests\obj\Debug\Phoneword.UITests.dll
+C:\Users\Peyton\Documents\Projects\Phoneword\Phoneword.UITests\obj\Debug\Phoneword.UITests.pdb
