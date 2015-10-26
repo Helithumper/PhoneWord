@@ -1,0 +1,9 @@
+C:\Users\Peyton\Documents\GitHubRepos\PhoneWord\Phoneword.UITests\bin\Release\Phoneword.UITests.dll
+C:\Users\Peyton\Documents\GitHubRepos\PhoneWord\Phoneword.UITests\bin\Release\Phoneword.UITests.pdb
+C:\Users\Peyton\Documents\GitHubRepos\PhoneWord\Phoneword.UITests\bin\Release\nunit.framework.dll
+C:\Users\Peyton\Documents\GitHubRepos\PhoneWord\Phoneword.UITests\bin\Release\Xamarin.UITest.dll
+C:\Users\Peyton\Documents\GitHubRepos\PhoneWord\Phoneword.UITests\bin\Release\nunit.framework.xml
+C:\Users\Peyton\Documents\GitHubRepos\PhoneWord\Phoneword.UITests\bin\Release\Xamarin.UITest.xml
+C:\Users\Peyton\Documents\GitHubRepos\PhoneWord\Phoneword.UITests\obj\Release\Phoneword.UITests.csprojResolveAssemblyReference.cache
+C:\Users\Peyton\Documents\GitHubRepos\PhoneWord\Phoneword.UITests\obj\Release\Phoneword.UITests.dll
+C:\Users\Peyton\Documents\GitHubRepos\PhoneWord\Phoneword.UITests\obj\Release\Phoneword.UITests.pdb
